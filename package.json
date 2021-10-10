@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon scraper.js"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/EllaFerreira/meta_test/issues"
   },
-  "homepage": "https://github.com/EllaFerreira/meta_test#readme"
+  "homepage": "https://github.com/EllaFerreira/meta_test#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1"
+  }
 }
