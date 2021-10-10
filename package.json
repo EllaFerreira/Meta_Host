@@ -1,0 +1,19 @@
+{
+  "name": "meta_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon scraper.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EllaFerreira/meta_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EllaFerreira/meta_test/issues"
+  },
+  "homepage": "https://github.com/EllaFerreira/meta_test#readme"
+}
